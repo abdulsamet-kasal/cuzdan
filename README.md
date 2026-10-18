@@ -5,7 +5,7 @@ backend, giriş (login) veya dış servis kullanımı yoktur. Arayüz tamamen T�
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-APK'ları [Releases](../../releases) sayfasından indirebilirsiniz.
+APK'ları [Releases](https://github.com/abdulsamet-kasal/cuzdan/releases) sayfasından indirebilirsiniz.
 
 ## Geliştirme
 
