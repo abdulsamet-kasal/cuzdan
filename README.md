@@ -66,7 +66,7 @@ CI'da release APK imzalamak için repoya şu secret'lar tanımlıdır:
 `ANDROID_KEYSTORE_BASE64` (keystore dosyasının base64 hali),
 `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_ALIAS`, `ANDROID_KEY_PASSWORD`.
 
-Yerelde imzalı APK üretmek için:
+Yerelde imzalı APK üretmek için (JDK 21 gerekir):
 
 ```bash
 npm run build && npx cap sync android
